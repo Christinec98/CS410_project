@@ -1,0 +1,10 @@
+numpy
+tensorflow
+tensorflow-hub
+faiss-cpu
+flask
+beautifulsoup4
+flask_cors
+bs4
+requests
+urllib3
